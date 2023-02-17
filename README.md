@@ -15,6 +15,8 @@
 - https://github.com/optgeo/tansei-3to4/blob/main/view.md
 
 ## COG
+### Nagaoka
+- https://cogeo.xyz/?url=https://x.optgeo.org/ipfs/QmWSqVqcM6d9YX67ALQQjQ7ayN9EJSpmNSG1C8E5d2ywmG.tif
 
 ## 3D Tiles
 ### Project PLATEAU
