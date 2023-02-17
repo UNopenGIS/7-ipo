@@ -8,7 +8,7 @@
 - <a target="_blank" href="https://shi-works.github.io/MojMap/">https://shi-works.github.io/MojMap/</a>
 
 ### OSM Planet
-- [Qmd7unpEwrtbs4165EhDYnaERVoHukFun8FegVLfUBvRdC /w PMTiles Viewer](https://protomaps.github.io/PMTiles/?url=https%3A%2F%2Fx.optgeo.org%2Fipfs%2FQmd7unpEwrtbs4165EhDYnaERVoHukFun8FegVLfUBvRdC)
+- <a target="_blank" href="https://protomaps.github.io/PMTiles/?url=https%3A%2F%2Fx.optgeo.org%2Fipfs%2FQmd7unpEwrtbs4165EhDYnaERVoHukFun8FegVLfUBvRdC">Qmd7unpEwrtbs4165EhDYnaERVoHukFun8FegVLfUBvRdC /w PMTiles Viewer</a>
 
 ## COPC
 ### Virtual Shizuoka
