@@ -3,9 +3,9 @@
 
 ## PMTiles
 ### Map XML from Japanese Ministry of Justice
-- https://amx-project.github.io/a
-- https://office-shirado.github.io/Moj_Maps/
-- https://shi-works.github.io/MojMap/
+- <a target="_blank" href="https://amx-project.github.io/a">https://amx-project.github.io/a</a>
+- <a target="_blank" href="https://office-shirado.github.io/Moj_Maps/">https://office-shirado.github.io/Moj_Maps/</a>
+- <a target="_blank" href="https://shi-works.github.io/MojMap/">https://shi-works.github.io/MojMap/</a>
 
 ### OSM Planet
 - [Qmd7unpEwrtbs4165EhDYnaERVoHukFun8FegVLfUBvRdC /w PMTiles Viewer](https://protomaps.github.io/PMTiles/?url=https%3A%2F%2Fx.optgeo.org%2Fipfs%2FQmd7unpEwrtbs4165EhDYnaERVoHukFun8FegVLfUBvRdC)
