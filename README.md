@@ -16,7 +16,7 @@
 
 ## COG
 ### Nagaoka
-- <a target="_blank" href="https://cogeo.xyz/?url=https%3A%2F%2Fx.optgeo.org%2Fipfs%2FQmWSqVqcM6d9YX67ALQQjQ7ayN9EJSpmNSG1C8E5d2ywmG%3Ffilename%3Da.tif">https://cogeo.xyz/?url=https://x.optgeo.org/ipfs/QmWSqVqcM6d9YX67ALQQjQ7ayN9EJSpmNSG1C8E5d2ywmG&filename=a.tif</a>
+- <a target="_blank" href="https://cogeo.xyz/?url=https%3A%2F%2Fx.optgeo.org%2Fipfs%2FQmWSqVqcM6d9YX67ALQQjQ7ayN9EJSpmNSG1C8E5d2ywmG%3Ffilename%3Da.tif">Nagaoka on cogeo.xyz</a>
 
 ## 3D Tiles
 ### Project PLATEAU
