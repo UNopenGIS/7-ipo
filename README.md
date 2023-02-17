@@ -12,11 +12,11 @@
 
 ## COPC
 ### Virtual Shizuoka
-- https://github.com/optgeo/tansei-3to4/blob/main/view.md
+- <a target="_blank" href="https://github.com/optgeo/tansei-3to4/blob/main/view.md">https://github.com/optgeo/tansei-3to4/blob/main/view.md</a>
 
 ## COG
 ### Nagaoka
-- [https://cogeo.xyz/?url=https://x.optgeo.org/ipfs/QmWSqVqcM6d9YX67ALQQjQ7ayN9EJSpmNSG1C8E5d2ywmG&filename=a.tif](https://cogeo.xyz/?url=https%3A%2F%2Fx.optgeo.org%2Fipfs%2FQmWSqVqcM6d9YX67ALQQjQ7ayN9EJSpmNSG1C8E5d2ywmG%3Ffilename%3Da.tif)
+- <a target="_blank" href="https://cogeo.xyz/?url=https%3A%2F%2Fx.optgeo.org%2Fipfs%2FQmWSqVqcM6d9YX67ALQQjQ7ayN9EJSpmNSG1C8E5d2ywmG%3Ffilename%3Da.tif">https://cogeo.xyz/?url=https://x.optgeo.org/ipfs/QmWSqVqcM6d9YX67ALQQjQ7ayN9EJSpmNSG1C8E5d2ywmG&filename=a.tif</a>
 
 ## 3D Tiles
 ### Project PLATEAU
